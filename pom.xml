@@ -1,11 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--
-  ~ Copyright 2019 ForgeRock AS. All Rights Reserved
-  ~
-  ~ Use of this code requires a commercial software license with ForgeRock AS.
-  ~ or with one of its affiliates. All use shall be exclusively subject
-  ~ to such license between the licensee and ForgeRock AS.
-  -->
 
 <project xmlns="http://maven.apache.org/POM/4.0.0"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
